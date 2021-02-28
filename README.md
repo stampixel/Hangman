@@ -1,6 +1,6 @@
 ## General info
 
-This is a simple hangman game I made with Python. If you have any word or wordlists you want me to add, just submit a pull request.
+This is a simple hangman game I made with Python. If you have any word or wordlists you want me to add, just submit an issue.
 
 
 
